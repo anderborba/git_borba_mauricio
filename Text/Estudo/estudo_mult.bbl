@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{tsiotsios2013anisotropic}
+Chourmouzios Tsiotsios and Maria Petrou.
+\newblock On the choice of the parameters for anisotropic diffusion in image
+  processing.
+\newblock {\em Pattern Recognition}, 46:1369--1381, 2013.
+
+\bibitem{perona1990scale}
+Pietro Perona and Jitendra Malik.
+\newblock Scale-space and edge detection using anisotropic diffusion.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  12(7):629--639, 1990.
+
+\bibitem{black1998robust}
+Michael~J Black, Guillermo Sapiro, David~H Marimont, and David Heeger.
+\newblock Robust anisotropic diffusion.
+\newblock {\em IEEE Transactions on image processing}, 7(3):421--432, 1998.
+
+\bibitem{chen2011iterative}
+Donghui Chen, Scott MacLachlan, and M~Kilmer.
+\newblock Iterative parameter-choice and multigrid methods for anisotropic
+  diffusion denoising.
+\newblock {\em SIAM Journal on Scientific Computing}, 33(5):2972--2994, 2011.
+
+\bibitem{wang2005new}
+Hui Wang, Q-H Qin, and Yi~Lan Kang.
+\newblock A new meshless method for steady-state heat conduction problems in
+  anisotropic and inhomogeneous media.
+\newblock {\em Archive of Applied Mechanics}, 74(8):563--579, 2005.
+
+\end{thebibliography}

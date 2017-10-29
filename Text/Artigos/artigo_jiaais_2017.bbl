@@ -1,0 +1,102 @@
+\begin{thebibliography}{10}
+
+\bibitem{Fedorenko1962relaxation}
+Radii~Petrovich Fedorenko.
+\newblock A relaxation method for solving elliptic difference equations.
+\newblock {\em USSR Computational Mathematics and Mathematical Physics},
+  1(4):1092--1096, 1962.
+
+\bibitem{Fedorenko1964speed}
+Radii~Petrovich Fedorenko.
+\newblock The speed of convergence of one iterative process.
+\newblock {\em USSR Computational Mathematics and Mathematical Physics},
+  4(3):227--235, 1964.
+
+\bibitem{Bakhvalov}
+Nikolai~Sergeevich Bakhvalov.
+\newblock On the convergence of a relaxation method with natural constraints on
+  the elliptic operator.
+\newblock {\em USSR Computational Mathematics and Mathematical Physics},
+  6(5):101--135, 1966.
+
+\bibitem{Hackbusch1980convergence}
+Wolfgang Hackbusch.
+\newblock Convergence of multigrid iterations applied to difference equations.
+\newblock {\em Mathematics of Computation}, 34(150):425--440, 1980.
+
+\bibitem{brandt1977multi}
+Achi Brandt.
+\newblock Multi-level adaptive solutions to boundary-value problems.
+\newblock {\em Mathematics of computation}, 31(138):333--390, 1977.
+
+\bibitem{perona1990scale}
+Pietro Perona and Jitendra Malik.
+\newblock Scale-space and edge detection using anisotropic diffusion.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  12(7):629--639, 1990.
+
+\bibitem{scott1998multigrid}
+Scott~T Acton.
+\newblock Multigrid anisotropic diffusion.
+\newblock {\em IEEE Transactions on Image Processing}, 7(3):280--291, 1998.
+
+\bibitem{papandreou2007multigrid}
+George Papandreou and Petros Maragos.
+\newblock Multigrid geometric active contour models.
+\newblock {\em IEEE transactions on image processing}, 16(1):229--240, 2007.
+
+\bibitem{tsiotsios2013anisotropic}
+Chourmouzios Tsiotsios and Maria Petrou.
+\newblock On the choice of the parameters for anisotropic diffusion in image
+  processing.
+\newblock {\em Pattern Recognition}, 46:1369--1381, 2013.
+
+\bibitem{liu2017multigrid}
+Jun Liu, Brittany~D. Froese, Adam~M. Oberman, and Mingqing Xiao.
+\newblock A multigrid scheme for 3d monge-ampère equations.
+\newblock {\em Int. J. Comput. Math.}, 94(9):1850--1866, September 2017.
+
+\bibitem{molina2014impact}
+Carlos Lopez-Molina, Mikel Galar, Humberto Bustince, and Bernard De~Baets.
+\newblock On the impact of anisotropic diffusion on edge detection.
+\newblock {\em Pattern Recognition}, 47(1):270--281, 2014.
+
+\bibitem{oskoei2010survey}
+Mohammadreza~Asghari Oskoei and Huosheng Hu.
+\newblock A survey on edge detection methods.
+\newblock {\em University of Essex, UK}, 2010.
+
+\bibitem{sobel1968}
+R.~Sobel and G.~Feldman.
+\newblock An $3\times 3$ isotropic gradient operator for image processing.
+\newblock {\em Presented at the Stanford Artificial Intelligence Project
+  (SAIL)}, 1968.
+
+\bibitem{gupta2013sobel}
+Samta Gupta and Susmita~Ghosh Mazumdar.
+\newblock Sobel edge detection algorithm.
+\newblock {\em International journal of computer science and management
+  Research}, 2(2):1578--1583, 2013.
+
+\bibitem{opencv_3_2016}
+Opencv (open source computer vision library).
+\newblock Acessado em 11 de julho 2016.
+
+\bibitem{ling_c}
+B.~Kernighan and D~Ritchie.
+\newblock The c programming language.
+\newblock Acessado em 11 de julho 2016.
+
+\bibitem{marr1980theory}
+David Marr and Ellen Hildreth.
+\newblock Theory of edge detection.
+\newblock {\em Proceedings of the Royal Society of London B: Biological
+  Sciences}, 207(1167):187--217, 1980.
+
+\bibitem{schunck1987scale}
+Brian~G. Schunck.
+\newblock Edge detection with gaussian filters at multiple scales.
+\newblock {\em in Proc. IEEE Comp. Soc. Work. Comp. Vis.}, pages 208--210,
+  1887.
+
+\end{thebibliography}

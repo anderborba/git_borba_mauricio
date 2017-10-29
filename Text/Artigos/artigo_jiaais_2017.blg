@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: artigo_jiaais_2017.aux
+The style file: unsrt.bst
+Database file #1: ../bibliografia.bib
+Warning--empty author in opencv_3_2016
+Warning--empty journal in opencv_3_2016
+Warning--empty journal in ling_c
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            566 strings with 6292 characters,
+and the built_in function-call counts, 4006 in all, are:
+= -- 389
+> -- 121
+< -- 1
++ -- 49
+- -- 31
+* -- 288
+:= -- 626
+add.period$ -- 53
+call.type$ -- 18
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 167
+empty$ -- 405
+format.name$ -- 31
+if$ -- 872
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 18
+newline$ -- 92
+num.names$ -- 17
+pop$ -- 33
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 74
+stack$ -- 0
+substring$ -- 377
+swap$ -- 25
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 45
+width$ -- 20
+write$ -- 192
+(There were 3 warnings)
